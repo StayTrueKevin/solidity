@@ -1,5 +1,4 @@
 <h1 align=center> Web3 Smart Contracts </h1>
-<p align="center">Show the world the most gas-optimized,secure contract it has ever seen(Just Kidding,It's beginner friendly)</p>
 <p align="center">
 
 
